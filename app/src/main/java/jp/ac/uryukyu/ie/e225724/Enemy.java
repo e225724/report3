@@ -21,17 +21,10 @@ public class Enemy {
     public int getHitPoint() {
         return hitPoint;
     }
-    public void setHitPoint(int hitPoint) {
-        this.hitPoint = hitPoint;
-    }
 
     public int getAttack() {
         return attack;
     }
-    public void setAttack(int attack) {
-        this.attack = attack;
-    }
-
     public boolean getDead() {
         return dead;
     }
